@@ -2,7 +2,7 @@
 
 🎓 First-year CSE student | 🔐 Cybersecurity Enthusiast | 🤖 AI Learner | 🧩 Competitive Programmer  
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=514&height=100&separator=%3C&lines=Passionate+Developer+;+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Passionate+Developer%5Cn%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Cybersecurity+Enthusiast%5Cn%5Cn%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22AI+Explorer%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%2C%22fontWeight%22%3A%22300%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 ---
 
 ## 🚀 About Me
