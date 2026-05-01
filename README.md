@@ -41,4 +41,4 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/kshitiz-srivastava-3a6488402) | [GitHub](https://github.com/kshitiz011) |
+[LinkedIn](https://www.linkedin.com/in/kshitiz-srivastava-3a6488402) | [GitHub](https://github.com/kshitizSrivastava430)
