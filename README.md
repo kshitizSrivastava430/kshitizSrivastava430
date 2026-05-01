@@ -49,11 +49,13 @@
 
 ## 📊 GitHub Stats
 
-![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430z&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430z&layout=compact&theme=tokyonight)
+![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizSrivastava430z&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizSrivastava430&theme=tokyonight)
 
 
 ---
