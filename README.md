@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![kshitizSrivastava430's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight)
+![kshitizSrivastava430's GitHub stats](https://github-readme-stats.vercel.app/api?user=kshitizSrivastava430&show_icons=true&theme=tokyonight)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
