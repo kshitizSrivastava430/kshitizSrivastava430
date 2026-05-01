@@ -7,8 +7,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **C++, React, AI/ML, and cybersecurity defense strategies**  
 - 🔧 Building **secure systems & responsive web apps**  
-- 🤝 Looking to collaborate on **open-source security tools & competitive programming projects**  
-- 📘 Fun fact: I love turning exam prep into mnemonics and cheat sheets for fast recall  
+- 🤝 Looking to collaborate on **open-source security tools & competitive programming projects**    
 
 ---
 
@@ -20,11 +19,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 🔐 **Secure Login System** – Authentication & encryption basics  
-- 📊 **Laplace Transform Solver** – Engineering math project  
-- 🎮 **React Counter App** – Clean, minimal event handling demo  
-
 ---
 
 ## 🛠 Tech Stack
@@ -35,6 +29,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
@@ -45,4 +41,4 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/kshitiz011) | [Serious Crown Gaming](https://youtube.com/your-link)
+[LinkedIn](www.linkedin.com/in/kshitiz-srivastava-3a6488402) | [GitHub](https://github.com/kshitiz011) |
