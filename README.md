@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Kshitiz
+# Hey there 👋, I'm Kshitiz Srivastava
 
 🎓 First-year CSE student | 🔐 Cybersecurity Enthusiast | 🤖 AI Learner | 🧩 Competitive Programmer  
 ---
