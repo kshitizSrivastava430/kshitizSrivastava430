@@ -18,6 +18,18 @@
 - ⚡ Debugging & optimizing systems for performance  
 
 ---
+## Typing Stats (Monkeytype)
+
+- **Tests Started:** 327  
+- **Tests Completed:** 224  
+- **Total Time Typing:** 1h 41m  
+- **Accuracy Highlights:**  
+  - 15s: 100% (82 WPM)  
+  - 30s: 98% (74 WPM)  
+  - 60s: 99% (71 WPM)  
+  - 10 words: 100% (80 WPM)   
+
+> Practicing regularly on [Monkeytype](https://monkeytype.com) to sharpen speed and accuracy.
 
 ---
 
