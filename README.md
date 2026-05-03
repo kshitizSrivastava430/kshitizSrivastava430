@@ -21,9 +21,9 @@
 ---
 ## Typing Stats (Monkeytype)
 
-- **Tests Started:** 327  
-- **Tests Completed:** 224  
-- **Total Time Typing:** 1h 41m  
+- **Tests Started:** 400
+- **Tests Completed:** 270  
+- **Total Time Typing:** 2h 04m  
 - **Accuracy Highlights:**  
   - 15s: 100% (82 WPM)  
   - 30s: 98% (74 WPM)  
