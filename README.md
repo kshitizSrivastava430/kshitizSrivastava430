@@ -51,11 +51,11 @@
 
 ## GitHub Stats
 
-!![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight)
+![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight)
 
-!![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
 
-!![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight)
 
 
 
