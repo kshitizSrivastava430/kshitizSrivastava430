@@ -51,18 +51,9 @@
 
 ## GitHub Stats
 ## 📊 GitHub Stats
+\## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight" alt="Kshitiz's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-  <img src="https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight" alt="Streak Stats" />
-
-</div>
-
-
+![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight) ![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight)
 
 ---
 
