@@ -50,13 +50,17 @@
 ## 📊 GitHub Stats
 
 ## GitHub Stats
+## 📊 GitHub Stats
 
-![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitizSrivastava430&show_icons=true&theme=tokyonight" alt="Kshitiz's GitHub stats" />
 
-![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+  <img src="https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight" alt="Streak Stats" />
+
+</div>
 
 
 
