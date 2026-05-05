@@ -53,7 +53,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizSrivastava430&layout=compact&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizSrivastava430&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=kshitizSrivastava430&theme=tokyonight)
+
 
 
 ---
